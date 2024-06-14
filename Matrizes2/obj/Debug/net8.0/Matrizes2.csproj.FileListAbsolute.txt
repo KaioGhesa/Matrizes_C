@@ -1,0 +1,14 @@
+C:\Curso Udemy\Matrizes2\bin\Debug\net8.0\Matrizes2.exe
+C:\Curso Udemy\Matrizes2\bin\Debug\net8.0\Matrizes2.deps.json
+C:\Curso Udemy\Matrizes2\bin\Debug\net8.0\Matrizes2.runtimeconfig.json
+C:\Curso Udemy\Matrizes2\bin\Debug\net8.0\Matrizes2.dll
+C:\Curso Udemy\Matrizes2\bin\Debug\net8.0\Matrizes2.pdb
+C:\Curso Udemy\Matrizes2\obj\Debug\net8.0\Matrizes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\Matrizes2\obj\Debug\net8.0\Matrizes2.AssemblyInfoInputs.cache
+C:\Curso Udemy\Matrizes2\obj\Debug\net8.0\Matrizes2.AssemblyInfo.cs
+C:\Curso Udemy\Matrizes2\obj\Debug\net8.0\Matrizes2.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\Matrizes2\obj\Debug\net8.0\Matrizes2.dll
+C:\Curso Udemy\Matrizes2\obj\Debug\net8.0\refint\Matrizes2.dll
+C:\Curso Udemy\Matrizes2\obj\Debug\net8.0\Matrizes2.pdb
+C:\Curso Udemy\Matrizes2\obj\Debug\net8.0\Matrizes2.genruntimeconfig.cache
+C:\Curso Udemy\Matrizes2\obj\Debug\net8.0\ref\Matrizes2.dll

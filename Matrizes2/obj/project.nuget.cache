@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYaNHOCBsqCfDIRjLvaNsSc6m6i8l2kS6/fErzCyhQwmJKDsyp8uXgKpHRpGh/xgfwnJejfzFjg0al9EhBT2mw==",
+  "success": true,
+  "projectFilePath": "C:\\Curso Udemy\\Matrizes2\\Matrizes2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meu Computador\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\Meu Computador\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\Meu Computador\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
